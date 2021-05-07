@@ -1,0 +1,6 @@
+module Pods_ngoctrang_ngoctrangTests {
+  umbrella header "Pods-ngoctrang-ngoctrangTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
